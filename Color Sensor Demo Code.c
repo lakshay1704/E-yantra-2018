@@ -1,3 +1,4 @@
+//This file interfaces a RGB Led and color sensor to Atmega2560 Microcontroller
 /*
  * Color_Sensor.c
  *
